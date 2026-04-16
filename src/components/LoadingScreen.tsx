@@ -8,14 +8,7 @@ export default function LoadingScreen() {
       transition={{ duration: 0.8 }}
       className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-gradient-to-br from-[#f1cfce] via-[#e4cfce] to-[#cbbdbc]"
     >
-      <motion.img
-        initial={{ scale: 0.8, opacity: 0 }}
-        animate={{ scale: 1, opacity: 1 }}
-        transition={{ duration: 0.8 }}
-        src="/loading-image.jpg"
-        alt="Loading"
-        className="w-80 h-80 object-contain mb-8"
-      />
+     
       
       <motion.div
         initial={{ opacity: 0 }}
