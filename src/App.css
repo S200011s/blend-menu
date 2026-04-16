@@ -1,0 +1,37 @@
+/* App.css - Add these styles */
+/* .pdf-export .menu-page {
+  page-break-after: always;
+  page-break-inside: avoid;
+}
+
+.pdf-export img {
+  max-width: 100%;
+  height: auto;
+} */
+
+/* Force show all content during PDF generation */
+/* @media print {
+  .menu-page {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+  }
+} */
+
+.pdf-export .menu-page {
+  page-break-after: always;
+  page-break-inside: avoid;
+}
+
+.pdf-export img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media print {
+  .menu-page {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+  }
+}

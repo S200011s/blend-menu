@@ -1,0 +1,2736 @@
+// {
+//     "categories": [
+//         {
+//   "name": "Most Ordered",
+//   "items": [
+//     {
+//          "name": "Shaken Pistachio",
+//          "sizes": [{ "price": 155 }]
+//     },
+//     {
+//          "name": "Ice Spanish",
+//          "sizes": [
+//         { "label": "XL", "price": 135 }
+//       ]
+//     },
+//      {
+//          "name": "Raspberry Matcha Cloud ",
+//          "sizes": [{ "price": 145 }]
+//     },
+//     {
+//          "name": "San Sebastián ",
+//          "sizes": [{ "price": 135 }]
+//     },
+//     {
+//          "name": "Baklava cheesecake",
+//          "sizes": [{ "price": 125 }]
+//     }
+    
+//   ]
+//         },
+//        {
+//   "name": "Hot Coffee",
+//   "icon": "coffee",
+//   "items": [
+//     {
+//       "name": "Espresso",
+//       "img": "/images/Espresso.jpg",
+//       "sizes": [
+//         { "label": "Single", "price": 50 },
+//         { "label": "Double", "price": 60 }
+//       ],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Americano",
+//       "img": "/images/Americano.jpg",
+//       "sizes": [{ "price": 75 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Macchiato",
+//       "img": "/images/1st white.jpg",
+//       "sizes": [{ "price": 75 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Cortado",
+//       "img": "/images/1st white.jpg",
+//       "sizes": [{ "price": 75 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Cappuccino",
+//       "img": "/images/1st white.jpg",
+//       "sizes": [{ "price": 85 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//      {
+//       "name": "Flat white",
+//       "img": "/images/1st white.jpg",
+//       "sizes": [{ "price": 80 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Filter",
+//       "img": "/images/filter.png",
+//       "sizes": [{ "price": 125 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Turkish",
+//       "img": "/images/Turkish coffee/Turkish.jpeg",
+//       "sizes": [
+//         { "label": "Single", "price": 40 },
+//         { "label": "Double", "price": 60 }
+//       ],
+//       "addons": []
+//     },
+//     {
+//       "name": "French",
+//       "img": "/images/Turkish coffee/French.jpg",
+//       "sizes": [{ "price": 60 }],
+//       "addons": []
+//     },
+//     {
+//       "name": "Hazelnut",
+//       "img": "/images/Turkish coffee/Hazelnut.webp",
+//       "sizes": [{ "price": 60 }],
+//       "addons": []
+//     },
+    
+//     {
+//       "name": "Latte",
+//       "img": "/images/Latte.jpg",
+//       "sizes": [{"price":90 }],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },{
+//       "name": "Spanish",
+//       "img": "/images/Spanish.jpg",
+//       "sizes": [ { "price": 110 }],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "White Mocha",
+//       "img": "/images/White Mocha.jpeg",
+//       "sizes": [{  "price": 110}],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Dark Mocha",
+//       "img": "/images/Dark Mocha.png",
+//       "sizes": [
+//         { "label": "Single", "price": 85 },
+//         { "label": "Double", "price": 115 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Salted Caramel",
+//       "img": "/images/salted caramel.jpg",
+//       "sizes": [{  "price": 110 }],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Caramel",
+//       "img": "/images/Caramel.jpeg",
+//       "sizes": [{"price": 110 }],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Vanilla",
+//       "img": "/images/Vanilla.jpg",
+//       "sizes": [
+//         { "label": "Single", "price": 85 },
+//         { "label": "Double", "price": 110 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Pistachio Latte",
+//       "img": "/images/Pistachio.jpg",
+//       "sizes": [
+//         { "label": "Single", "price": 110 },
+//         { "label": "Double", "price": 150 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     }
+//   ]
+// }
+// ,{
+//   "name": "Iced Coffee",
+//   "icon": "ice-coffee",
+//   "items": [
+//     {
+//       "name": "Americano",
+//       "img": "/images/Americano.jpg",
+//       "sizes": [{ "price": 75 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Filter",
+//       "img": "/images/filter.png",
+//       "sizes": [{ "price": 125 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Latte",
+//       "img": "/images/Latte.jpg",
+//       "sizes": [
+//         { "label": "L", "price": 100},
+//         { "label": "XL", "price": 115 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Spanish",
+//       "img": "/images/Spanish.jpg",
+//       "sizes": [
+//         { "label": "L", "price": 120 },
+//         { "label": "XL", "price": 135 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "White Mocha",
+//       "img": "/images/White Mocha.jpeg",
+//       "sizes": [
+//         { "label": "L", "price": 125 },
+//         { "label": "XL", "price": 135 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Dark Mocha",
+//       "img": "/images/Dark Mocha.png",
+//       "sizes": [
+//         { "label": "Single", "price": 85 },
+//         { "label": "Double", "price": 115 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Salted Caramel",
+//       "img": "/images/salted caramel.jpg",
+//       "sizes": [
+//         { "label": "L", "price": 120 },
+//         { "label": "XL", "price": 135 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Caramel",
+//       "img": "/images/Caramel.jpeg",
+//       "sizes": [
+//         { "label": "Single", "price": 125 },
+//         { "label": "Double", "price": 135 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Vanilla",
+//       "img": "/images/Vanilla.jpg",
+//       "sizes": [
+//         { "label": "Single", "price": 85 },
+//         { "label": "Double", "price": 110 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     },
+//     {
+//       "name": "Espresso on rocks",
+//       "img": "/images/filter.png",
+//       "sizes": [{ "price": 65 }],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "White espresso on rocks",
+//       "img": "/images/filter.png",
+//       "sizes": [{ "price":70}],
+//       "addons": [{ "label": "Extra Flavor", "price": 15 }]
+//     },
+//     {
+//       "name": "Pistachio Latte",
+//       "img": "/images/Pistachio.jpg",
+//       "sizes": [
+//         { "label": "Single", "price": 110 },
+//         { "label": "Double", "price": 150 }
+//       ],
+//       "addons": [
+//         { "label": "Extra Flavor", "price": 15 },
+//         { "label": "BOOBA", "price": 30 },
+//         { "label": "Bombing Boba", "price": 40 }
+//       ]
+//     }
+//   ]
+// }
+// ,{
+//     "name": "Shaken Espresso",
+//             "icon": "coffee",
+//             "items": [
+//                 {
+//                     "name": "White mocha ",
+//                     "img": "/images/Tea.jpg",
+//                     "sizes": [
+//                         { "price": 135 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Salted caramel ",
+//                     "img": "/images/Tea.jpg",
+//                     "sizes": [
+//                         { "price": 135 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Dulce de letche ",
+//                     "img": "/images/Tea.jpg",
+//                     "sizes": [
+//                         { "price": 135 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Pistachio  ",
+//                     "img": "/images/Tea.jpg",
+//                     "sizes": [
+//                         { "price": 150 }
+//                     ],
+//                     "addons": []
+//                 }
+//             ]
+// },{
+//             "name": "Matcha",
+//             "icon": "matcha",
+//             "items": [
+//                   {
+//                     "name": "⁠Matcha classic",
+//                     "img": "/images/Matcha Boba.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                        { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": " White Mocha",
+//                     "img": "/images/Matcha Lovers/iced-matcha-white-chocolate.jpg",
+//                     "sizes": [
+//                         { "price": 135 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Coconut", "price": 40 },
+//                         { "label": "OAT", "price": 40 },
+//                         { "label": "FreeLactos", "price": 25 },
+//                         { "label": "Skimmed", "price": 10 }
+//                     ]
+//                 },
+//                 {
+//                     "name": " Spanish",
+//                     "img": "/images/Matcha Lovers/Matcha Spanish.jpeg",
+//                     "sizes": [
+//                         { "price": 135 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Coconut", "price": 40 },
+//                         { "label": "OAT", "price": 40 },
+//                         { "label": "FreeLactos", "price": 25 },
+//                         { "label": "Skimmed", "price": 10 }
+//                     ]
+//                 },
+//                 {
+//                     "name": " Salted",
+//                     "img": "/images/Matcha Lovers/Matcha Caramel.webp",
+//                     "sizes": [
+//                         { "price": 135 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Coconut", "price": 40 },
+//                         { "label": "OAT", "price": 40 },
+//                         { "label": "FreeLactos", "price": 25 },
+//                         { "label": "Skimmed", "price": 10 }
+//                     ]
+//                 },
+//                 {
+//                     "name": " Raspberry Matcha Cloud",
+//                     "img": "/images/Matcha Lovers/Matcha Blueberry.jpeg",
+//                     "sizes": [
+//                         { "price": 145 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Coconut", "price": 40 },
+//                         { "label": "OAT", "price": 40 },
+//                         { "label": "FreeLactos", "price": 25 },
+//                         { "label": "Skimmed", "price": 10 }
+//                     ]
+//                 }
+//             ],
+//             "addonsMessage": "Choose your favorite milk to customize your drink: Coconut, OAT, FreeLactos or Skimme."
+
+//         },
+//                 {
+//             "name": "Hot Drinks",
+//             "icon": "coffee",
+//             "items": [
+//                 {
+//                     "name": "Tea",
+//                     "img": "/images/Tea.jpg",
+//                     "sizes": [
+//                         { "price": 25 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Milk Tea",
+//                     "img": "/images/Milk Tea.jpg",
+//                     "sizes": [
+//                         { "price": 50 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Karak",
+//                     "img": "/images/Karak.jpg",
+//                     "sizes": [
+//                         {  "price": 50}
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Nescafe",
+//                     "img": "/images/Nescafe.jpg",
+//                     "sizes": [
+//                         {"price": 60 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Hot Chocolate classic",
+//                     "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+//                    "sizes": [
+//                         {  "price": 100 }],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Hot Chocolate marshmallow ",
+//                     "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+//                    "sizes": [
+//                         {  "price": 125 }],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Hot Chocolate tiramisu  ",
+//                     "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+//                    "sizes": [
+//                         {  "price": 125 }],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Hot Chocolate whipped cream ",
+//                     "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+//                    "sizes": [
+//                         {  "price": 125 }],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Hot pistachio  ",
+//                     "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+//                    "sizes": [
+//                         {  "price": 130}],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Hot Caramelized Lutos",
+//                     "img": "/images/Hot Drinks/Hot Caramelized Lutos.jpg",
+//                     "sizes": [
+//                         {  "price": 90 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Hot Pistachio",
+//                     "img": "/images/Hot Drinks/Hot Pistachio.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Apple Cider",
+//                     "img": "/images/Hot Drinks/Apple Cider.jpeg",
+//                     "sizes": [
+//                         {  "price": 70 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Pineapple Cider",
+//                     "img": "/images/Hot Drinks/Pineapple Cider.jpeg",
+//                     "sizes": [
+//                         {  "price": 70 }
+//                     ],
+//                     "addons": []
+//                 }
+//             ],
+//             "addonsMessage": "Add Extra Flavor for 15 EGP. (One Pumb)"
+//         },
+//         {
+//             "name": "Signature Drinks",
+//             "icon": "star",
+//             "items": [
+//                 {
+//                     "name": "Ice Shaken Double Shot",
+//                     "img": "/images/Signature Drinks/images.jpeg",
+//                     "sizes": [
+//                         { "label": "White Mocha", "price": 115 },
+//                         { "label": "Dark Mocha", "price": 115 },
+//                         { "label": "Salted Caramel", "price": 115 }
+                    
+//                     ],
+//                      "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Ice Rose",
+//                     "img": "/images/Signature Drinks/Ice Rose.webp",
+//                     "sizes": [
+//                         { "price": 85 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Ice Pistachio",
+//                     "img": "/images/Signature Drinks/Ice Pistachio.jpg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Ice White Chocolate",
+//                     "img": "/images/Signature Drinks/iced-white-chocolate-mocha-7319.jpg",
+//                     "sizes": [
+//                         { "price": 85 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Taro boba ",
+//                     "img": "/images/Taro boba.jpeg",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "⁠Cold Bold Chocolate",
+//                     "img": "/images/Cold Bold Chocolate.jpeg",
+//                     "sizes": [
+//                         { "price": 115 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "⁠Bubble Fizz",
+//                     "img": "/images/...",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "⁠⁠Bonita",
+//                     "img": "/images/Matc.ha Boba.jpg",
+//                     "sizes": [
+//                         { "price": 110 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Tropoical Hacienda",
+//                     "img": "/images/lastmodifications/HACIENDA.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 }
+               
+//             ]
+//         },
+//         {
+//             "name": "Iced Drinks",
+//             "icon": "coffee",
+//             "items": [
+//                 {
+//                     "name": "Ice Chocolate",
+//                     "img": "/images/Ice Chocolate.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+                
+//                 {
+//                     "name": "Ice White Chocolate",
+//                     "img": "/images/Ice White Chocolate.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Rose",
+//                     "img": "/images/Ice Chocolate.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": []
+//                 },
+//                 {
+//                     "name": "Mango Juice",
+//                     "img": "/images/Mango Juice.jpg",
+//                     "sizes": [
+//                         { "price":90 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Orange Juice",
+//                     "img": "/images/Orange Juice.jpg",
+//                     "sizes": [
+//                         { "price": 60 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Lemon Mint",
+//                     "img": "/images/Lemon Mint.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+                
+//                 {
+//                     "name": "Water Melon Juice",
+//                     "img": "/images/Water Melon Juice.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Banana Juice",
+//                     "img": "/images/Banana Juice.webp",
+//                     "sizes": [
+//                         { "price": 80 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Water Melon Juice",
+//                     "img": "/images/Water Melon Juice.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Strawberry Juice",
+//                     "img": "/images/Strawberry Juice.jpg",
+//                     "sizes": [
+//                         { "price": 80 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 }
+              
+//             ]
+//         },
+//         {
+//             "name": "Milkshake",
+//             "icon": "milkshake",
+//             "items": [
+//                 {
+//                     "name": "Vanilla",
+//                     "img": "/images/Milkshake/Vanilla-milkshake-2.jpg",
+//                     "sizes": [
+//                         { "label": "Medium", "price": 85 },
+//                         { "label": "Large", "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "⁠Nutella",
+//                     "img": "/images/Nutella.jpg",
+//                     "sizes": [ { "price": 150 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Raspberry",
+//                     "img": "/images/Raspberry.jpg",
+//                     "sizes": [
+//                         { "label": "Medium", "price": 85 },
+//                         { "label": "Large", "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Caramel",
+//                     "img": "/images/Milkshake/salted-caramel-milkshake-RC-SQ.jpg",
+//                     "sizes": [
+//                         { "label": "Medium", "price": 85 },
+//                         { "label": "Large", "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Salted Caramel",
+//                     "img": "/images/Milkshake/salted-caramel-milkshake-RC-SQ.jpg",
+//                     "sizes": [ { "price": 120 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 }
+//                 ,
+//                 {
+//                     "name": "Salted Nutella",
+//                     "img": "/images/Milkshake/salted-caramel-milkshake-RC-SQ.jpg",
+//                     "sizes": [ { "price": 150 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Oreo",
+//                     "img": "/images/Milkshake/Chick-Fil-A-Oreo-Milkshake-hero.webp",
+//                     "sizes": [ { "price": 110 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Lotus",
+//                     "img": "/images/Milkshake/lotus-biscoff-sundae-milkshake-chocolate-260nw-2432268901.webp",
+//                     "sizes": [ { "price": 150 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Pistachio ",
+//                     "img": "/images/Milkshake/lotus-biscoff-sundae-milkshake-chocolate-260nw-2432268901.webp",
+//                     "sizes": [ { "price": 150 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Passion",
+//                     "img": "/images/Milkshake/Passion.jpg",
+//                     "sizes": [ { "price": 125 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Berries",
+//                     "img": "/images/Milkshake/BlueberryMilkshake-500x375.webp",
+//                     "sizes": [ { "price": 110 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Strawberry",
+//                     "img": "/images/Milkshake/Strawberry-Banana-Milkshake.jpg",
+//                     "sizes": [ { "price": 110 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 }
+//             ]
+//         },
+//         {
+//             "name": "Smoothie",
+//             "icon": "smoothie",
+//             "items": [
+//                 {
+//                     "name": "Pina Colada",
+//                     "img": "/images/Smoothie/banana-peach-smoothie.jpg",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Mango Kiwi",
+//                     "img": "/images/Smoothie/Mango Kiwi.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Trident",
+//                     "img": "/images/Trident.avif",
+//                     "sizes": [
+//                         { "price": 115 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Peach",
+//                     "img": "/images/Smoothie/banana-peach-smoothie.jpg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Blue Pineapple",
+//                     "img": "/images/Smoothie/Blueberry-Pineapple-Coconut-Smoothie1_940x1409.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Passion Fruit",
+//                     "img": "/images/Smoothie/Passion Fruit.jpg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Passion Raspberry",
+//                     "img": "/images/Smoothie/Blueberry-Raspberry-Smoothie-15.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Strawberry",
+//                     "img": "/images/Smoothie/strawberry-breakfast-smoothie-recipe-2097149-hero-02-5c1d4b2a46e0fb00014bf2ec.jpg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Blueberry",
+//                     "img": "/images/Smoothie/Blueberry-Smoothie-main.webp",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 }
+//             ]
+//         },
+//         {
+//             "name": "Velvet Blends ",
+//             "icon": "frappe",
+//             "items": [
+//                    {
+//                     "name": "Cold pina colada",
+//                     "img": "/images/Frappe/Frappuccino Classic.jpg",
+//                     "sizes": [
+//                         { "price": 125 }
+//                     ],
+//                        "addons": []
+//                     },
+//                     {
+//                     "name": "Cold peach ",
+//                     "img": "/images/Frappe/Frappuccino Classic.jpg",
+//                     "sizes": [
+//                         { "price": 125 }
+//                     ],
+//                        "addons": []
+//                     },{
+//                     "name": "Coconut berry ",
+//                     "img": "/images/Frappe/Frappuccino Classic.jpg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": []
+//                     }
+
+//             ]
+//         },
+//         {
+//             "name": "Frappe",
+//             "icon": "frappe",
+//             "items": [
+//                 {
+//                     "name": "Frappuccino Classic",
+//                     "img": "/images/Frappe/Frappuccino Classic.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Frappuccino Caramel",
+//                     "img": "/images/Frappe/Starbucks-Caramel-Frappucino-5.jpg",
+//                     "sizes": [
+//                         { "price": 110 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Frappuccino White Mocha",
+//                     "img": "/images/Frappe/Frappuccino White Mocha.jpg",
+//                     "sizes": [
+//                         { "price": 110 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Frappuccino Dark Mocha",
+//                     "img": "/images/Frappe/Frappuccino Dark Mocha.jpg",
+//                     "sizes": [
+//                         { "price": 110 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Frappuccino Vanilla",
+//                     "img": "/images/Frappe/Frappuccino Vanilla.jpg",
+//                     "sizes": [
+//                         { "price": 110 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 }, {
+//                     "name": "Frappuccino Salted Caramel",
+//                     "img": "/images/Signature Drinks/Frappuccino Salted Caramel.jpeg",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Frappuccino White Salted Caramel",
+//                     "img": "/images/Signature Drinks/Frappuccino White Salted Caramel.jpg",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Frappuccino Dark Salted Caramel",
+//                     "img": "/images/Signature Drinks/Frappuccino Dark Salted Caramel.webp",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Frappuccino Pistachio",
+//                     "img": "/images/Frappe/Frappuccino Pistachio.jpg",
+//                     "sizes": [
+//                         { "price": 150 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 }
+//             ]
+//         },
+        
+//         {
+//             "name": "Mix Soda",
+//             "icon": "soda",
+//             "items": [
+//                 {
+//                     "name": "Hacienda white ",
+//                     "img": "/images/Mix Soda/Mix Pomegranate.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Hacienda red",
+//                     "img": "/images/Mix Soda/Mix Soda.webp",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Passion peach",
+//                     "img": "/images/Mix Soda/Berries.webp",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Pina colada",
+//                     "img": "/images/lastmodifications/HACIENDA.jpg",
+//                     "sizes": [
+//                         {  "price": 90 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Green fizz",
+//                     "img": "/images/Mix Soda/Peach.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Mandarin pop ",
+//                     "img": "/images/Mix Soda/Blue Passion.jpeg",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Rosha ",
+//                     "img": "/images/Sunshine.jpg",
+//                     "sizes": [
+//                         { "price": 90}
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Lemon pomegranate",
+//                     "img": "/images/Redbull/Mix Redbull.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Winter fizz ",
+//                     "img": "/images/Redbull/Mix Redbull.jpg",
+//                     "sizes": [
+//                         { "price": 100}
+//                     ],
+//                     "addons": []
+//                 }
+//             ]
+//         },
+//         {
+//             "name": "Mix redbull",
+//             "icon": " redbull",
+//            "items": [
+//                 {
+//                     "name": "Hacienda white ",
+//                     "img": "/images/Mix Soda/Mix Pomegranate.jpg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Hacienda red",
+//                     "img": "/images/Mix Soda/Mix Soda.webp",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Passion peach",
+//                     "img": "/images/Mix Soda/Berries.webp",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Pina colada",
+//                     "img": "/images/lastmodifications/HACIENDA.jpg",
+//                     "sizes": [
+//                         {  "price": 130 }],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Green fizz",
+//                     "img": "/images/Mix Soda/Peach.jpg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Mandarin pop ",
+//                     "img": "/images/Mix Soda/Blue Passion.jpeg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Rosha ",
+//                     "img": "/images/Sunshine.jpg",
+//                     "sizes": [
+//                         { "price": 130}
+//                     ],
+//                        "addons": [
+//                         { "label": "BOOBA", "price": 30 },
+//                         { "label": "Bombing Boba", "price": 40 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Lemon pomegranate",
+//                     "img": "/images/Redbull/Mix Redbull.jpg",
+//                     "sizes": [
+//                         { "price": 130 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Winter fizz ",
+//                     "img": "/images/Redbull/Mix Redbull.jpg",
+//                     "sizes": [
+//                         { "price": 140}
+//                     ],
+//                     "addons": []
+//                 }
+//             ]
+//         },
+//         {
+//             "name": "Desserts",
+//             "icon": "cake",
+//             "items": [
+//                 {
+//                     "name": "San Sebastian",
+//                     "img": "/images/Pastry/Pastry.jpg",
+//                     "sizes": [
+//                         { "label": "Chocolate", "price": 100 },
+//                         { "label": "White", "price": 100 },
+//                         { "label": "Kinder", "price": 100 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "San Sebastian",
+//                     "img": "/images/lastmodifications/San Sebastián.jpg",
+//                     "sizes": [
+//                         { "label": "Pistachio", "price": 125 },
+//                         { "label": "Lotus", "price": 125 },
+//                         { "label": "Nutella", "price": 125 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "San Sebastian White Blueberry",
+//                     "img": "/images/Pastry/San Sebastian White Blueberry.webp",
+//                     "sizes": [
+//                         { "price": 100 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Cheese Cake",
+//                     "img": "/images/Pastry/Triple-Chocolate-Cheesecake_730px-6.jpg.webp",
+//                     "sizes": [
+//                         { "label": "Chocolate", "price": 90 },
+//                         { "label": "Blueberry", "price": 90 },
+//                         { "label": "Strawberry", "price": 90 },
+//                         { "label": "Kinder", "price": 90 }
+//                     ],
+//                      "addons": [
+//                     ]
+//                 },
+//                 {
+//                     "name": "Cheese Cake",
+//                     "img": "/images/Pastry/Cheese Cake pistachio.webp",
+//                     "sizes": [
+//                         { "label": "Pistachio", "price": 110 },
+//                         { "label": "Lotus", "price": 110 },
+//                         { "label": "Nutella", "price": 110 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Éclair",
+//                     "img": "/images/Pastry/Éclair.webp",
+//                     "sizes": [
+//                         { "price": 75 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Tiramisu",
+//                     "img": "/images/Tiramisu.jpg",
+//                     "sizes": [
+//                         { "price": 85 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Cookie Dough",
+//                     "img": "/images/Pastry/american-cookies-rezept (1).jpg",
+//                     "sizes": [
+//                         { "price": 75 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Brownies",
+//                     "img": "/images/Pastry/Brownies.webp",
+//                     "sizes": [
+//                         { "price": 60 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Lazy Cat",
+//                     "img": "/images/Lazy Cat.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Honey Cake",
+//                     "img": "/images/Honey Cake.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Choux",
+//                     "img": "/images/Choux.jpg",
+//                     "sizes": [
+//                         { "price": 60 }
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Cookies",
+//                     "img": "/images/Cookies.webp",
+//                     "sizes": [
+//                         { "price": 50}
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Red Velvet Brownies",
+//                     "img": "/images/Red Velvet Brownies.jpeg",
+//                     "sizes": [
+//                         { "price": 75}
+//                     ],
+//                     "addons": []
+//                 },
+//                 {
+//                     "name": "Baklava",
+//                     "img": "/images/Baklava.jpg",
+//                     "sizes": [
+//                         { "price": 30 }
+//                     ],
+//                     "addons": []
+//                 }, {
+//                     "name": "Pancakes",
+//                     "img": "/images/Pancakes/Pancakes.jpg",
+//                     "sizes": [
+//                         { "label": "Chocolate", "price": 40 },
+//                         { "label": "White", "price": 40 },
+//                         { "label": "Kinder", "price": 40 },
+//                         { "label": "Pistachio", "price": 50 },
+//                         { "label": "Lotus", "price": 50 },
+//                         { "label": "WhiteBerry", "price": 50 },
+//                         { "label": "Nutella", "price": 50 }
+//                     ],
+//                     "addons": []
+//                 }
+           
+//             ]
+//         },
+//         {
+//              "name": "🌙RAMADAN HITS",
+//             "icon": "ramadan",
+//             "items": [
+//                 {
+//                     "name": "Baklava Pistachio Cheesecake ",
+//                     "img": "/images/Pizza Turkey Cheese.jpg",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                     "addons": []
+//         },
+//         {
+//                     "name": "Blend Royal Kunafa Tart ",
+//                     "img": "/images/Pizza Turkey Cheese.jpg",
+//                     "sizes": [
+//                         { "price": 115}
+//                     ],
+//                     "addons": []
+//         },
+//         {
+//                     "name": "Kunafa Rolls ",
+//                     "img": "/images/Pizza Turkey Cheese.jpg",
+//                     "sizes": [
+//                         { "price": 60 }
+//                     ],
+//                     "addons": []
+//         },
+//         {
+//                     "name": "Box 6 Rolls ",
+//                     "img": "/images/Pizza Turkey Cheese.jpg",
+//                     "sizes": [
+//                         { "price": 330 }
+//                     ],
+//                     "addons": []
+//         },
+//         {
+//                     "name": "Eclair-Ramadan Edition",
+//                     "img": "/images/Pizza Turkey Cheese.jpg",
+//                     "sizes": [
+//                         { "price": 90 }
+//                     ],
+//                     "addons": []
+//         }
+//         ]
+//     },
+//         {
+//             "name": "Breakfast",
+//             "icon": "sunrise",
+//             "items": [
+//                 {
+//                     "name": "Pizza Turkey Cheese",
+//                     "img": "/images/Pizza Turkey Cheese.jpg",
+//                     "sizes": [
+//                         { "price": 120 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Pizza Mix Cheese",
+//                     "img": "/images/Pizza Mix Cheese.jpg",
+//                     "sizes": [
+//                         { "price": 110 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Turkey Sandwich",
+//                     "img": "/images/Breakfast/Turkey Sandwich.jpg",
+//                     "sizes": [
+//                         { "label": "Toast", "price": 80 },
+//                         { "label": "Tortilla", "price": 100 },
+//                         { "label": "Croissant", "price": 100 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Mix Cheese Sandwich",
+//                     "img": "/images/Breakfast/Mix Cheese Sandwich.png",
+//                     "sizes": [
+//                         { "label": "Toast", "price": 70 },
+//                         { "label": "Tortilla", "price": 90 },
+//                         { "label": "Croissant", "price": 90 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Roasted Beef Sandwich",
+//                     "img": "/images/Breakfast/Roasted Beef Sandwich.jpg",
+//                     "sizes": [
+//                         { "label": "Toast", "price": 80 },
+//                         { "label": "Tortilla", "price": 100 },
+//                         { "label": "Croissant", "price": 100 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Omelette Turkey",
+//                     "img": "/images/Breakfast/Omelette Turkey.jpg",
+//                     "sizes": [
+//                         { "label": "Toast", "price": 100 },
+//                         { "label": "Tortilla", "price": 120 },
+//                         { "label": "Croissant", "price": 120 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Omelette Beef",
+//                     "img": "/images/Breakfast/Omelette Beef.jpg",
+//                     "sizes": [
+//                         { "label": "Toast", "price": 100 },
+//                         { "label": "Tortilla", "price": 120 },
+//                         { "label": "Croissant", "price": 120 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Omelette Pastirma",
+//                     "img": "/images/Breakfast/Omelette Pastirma.jpg",
+//                     "sizes": [
+//                         { "label": "Toast", "price": 100 },
+//                         { "label": "Tortilla", "price": 120 },
+//                         { "label": "Croissant", "price": 120 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 },
+//                 {
+//                     "name": "Omelette Cheese",
+//                     "img": "/images/Breakfast/Omelette Cheese.jpg",
+//                     "sizes": [
+//                         { "label": "Toast", "price": 75 },
+//                         { "label": "Tortilla", "price": 85 },
+//                         { "label": "Croissant", "price": 110 }
+//                     ],
+//                     "addons": [
+//                         { "label": "Plate (Sauce, Vegetables, Chips)", "price": 40 },
+//                         { "label": "Sauce", "price": 10 },
+//                         { "label": "Chips", "price": 15 },
+//                         { "label": "Vegetables", "price": 15 }
+//                     ]
+//                 }
+//             ],
+//             "addonsMessage": "All sandwiches have cheese added. Plate (40 EGP) includes sauce, vegetables, and chips."
+//         }
+//     ],
+//     "featured": {
+//         "best-sellers": [
+//             {
+//                 "name": "Hacienda",
+//                 "img": "/images/lastmodifications/HACIENDA.jpg",
+//                 "price": 110
+//             },
+//             {
+//                 "name": "Matcha Pistachio Vanilla",
+//                 "img": "/images/Signature Drinks/Matcha-Pistachio-latte-2.webp",
+//                 "price": 100
+//             },
+//             {
+//                 "name": "San Sebastian",
+//                 "img": "/images/lastmodifications/San Sebastián.jpg",
+//                 "price": 125
+
+
+//             }
+//         ],
+//         "fresh-oven": [
+//             {
+//                 "name": "Lazy Cat",
+//                 "img": "/images/Lazy Cat.jpg",
+//                 "price": 90
+//             },
+//             {
+//                 "name": "Honey Cake",
+//                 "img": "/images/Honey Cake.jpg",
+//                 "price":90
+//             },
+//             {
+//                 "name": "Éclair",
+//                 "img": "/images/Pastry/Éclair.webp",
+//                 "price": 75
+//             }    
+//         ],
+//         "sweet-picks": [
+//             {
+//                 "name": "Cheese Cake",
+//                 "img": "/images/Pastry/Cheese Cake pistachio.webp",
+//                 "price": 110,
+//                 "description": "Available in Pistachio, Lotus, or Nutella"
+//             },
+//             {
+//                 "name": "San Sebastian White Blueberry",
+//                 "img": "/images/Pastry/San Sebastian White Blueberry.webp",
+//                 "price": 100
+//             },
+//             {
+//                 "name": "Tiramisu",
+//                 "img": "/images/Tiramisu.jpg",
+//                 "price": 85
+//             },
+//             {
+//                 "name": "Brownies",
+//                 "img": "/images/Pastry/Brownies.webp",
+//                 "price": 60
+//             }
+//         ]
+//     }
+//   }
+
+
+{
+    "categories": [
+        {
+  "name": "Most Ordered",
+  "items": [
+    {
+         "name": "Shaken Pistachio",
+         "sizes": [{ "price": 155 }]
+    },
+    {
+         "name": "Ice Spanish",
+         "sizes": [
+        { "label": "XL", "price": 135 }
+      ]
+    },
+     {
+         "name": "Raspberry Matcha Cloud ",
+         "sizes": [{ "price": 145 }]
+    },
+    {
+         "name": "San Sebastián ",
+         "sizes": [{ "price": 135 }]
+    },
+    {
+         "name": "Baklava cheesecake",
+         "sizes": [{ "price": 125 }]
+    }
+    
+  ]
+        },
+       {
+  "name": "Hot Coffee",
+  "icon": "coffee",
+  "items": [
+    {
+      "name": "Espresso",
+      "img": "/images/Espresso.jpg",
+      "sizes": [
+        { "label": "Single", "price": 50 },
+        { "label": "Double", "price": 60 }
+      ],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+    {
+      "name": "Turkish",
+      "img": "/images/Turkish coffee/Turkish.jpeg",
+      "sizes": [
+        { "label": "Single", "price": 40 },
+        { "label": "Double", "price": 60 }
+      ],
+      "addons": []
+    },
+    {
+      "name": "Americano",
+      "img": "/images/Americano.jpg",
+      "sizes": [{ "price": 75 }],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+
+    {
+      "name": "Cortado",
+      "img": "/images/1st white.jpg",
+      "sizes": [{ "price": 75 }],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+    {
+      "name": "Macchiato",
+      "img": "/images/1st white.jpg",
+      "sizes": [{ "price": 75 }],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+    {
+      "name": "Cappuccino",
+      "img": "/images/1st white.jpg",
+      "sizes": [{ "price": 85 }],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+     {
+      "name": "Flat white",
+      "img": "/images/1st white.jpg",
+      "sizes": [{ "price": 80 }],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+    {
+      "name": "French",
+      "img": "/images/Turkish coffee/French.jpg",
+      "sizes": [{ "price": 60 }],
+      "addons": []
+    },
+    {
+      "name": "Hazelnut",
+      "img": "/images/Turkish coffee/Hazelnut.webp",
+      "sizes": [{ "price": 60 }],
+      "addons": []
+    },
+    
+    {
+      "name": "Latte",
+      "img": "/images/Latte.jpg",
+      "sizes": [{"price":90 }],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },{
+      "name": "Spanish Latte",
+      "img": "/images/Spanish.jpg",
+      "sizes": [ { "price": 110 }],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "White Mocha",
+      "img": "/images/White Mocha.jpeg",
+      "sizes": [{  "price": 110}],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "Salted Caramel",
+      "img": "/images/salted caramel.jpg",
+      "sizes": [{  "price": 110 }],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "Caramel",
+      "img": "/images/Caramel.jpeg",
+      "sizes": [{"price": 110 }],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    }
+  ]
+}
+,{
+  "name": "Iced Coffee",
+  "icon": "ice-coffee",
+  "items": [
+    
+    {
+      "name": "Latte",
+      "img": "/images/Latte.jpg",
+      "sizes": [
+        { "label": "L", "price": 100},
+        { "label": "XL", "price": 115 }
+      ],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "Spanish",
+      "img": "/images/Spanish.jpg",
+      "sizes": [
+        { "label": "L", "price": 120 },
+        { "label": "XL", "price": 135 }
+      ],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "White Mocha",
+      "img": "/images/White Mocha.jpeg",
+      "sizes": [
+        { "label": "L", "price": 125 },
+        { "label": "XL", "price": 135 }
+      ],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "Salted Caramel",
+      "img": "/images/salted caramel.jpg",
+      "sizes": [
+        { "label": "L", "price": 120 },
+        { "label": "XL", "price": 135 }
+      ],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "Caramel",
+      "img": "/images/Caramel.jpeg",
+      "sizes": [
+        { "label": "Single", "price": 125 },
+        { "label": "Double", "price": 135 }
+      ],
+      "addons": [
+        { "label": "Extra Flavor", "price": 15 },
+        { "label": "BOOBA", "price": 30 },
+        { "label": "Bombing Boba", "price": 40 }
+      ]
+    },
+    {
+      "name": "Espresso on rocks",
+      "img": "/images/filter.png",
+      "sizes": [{ "price": 65 }],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+    {
+      "name": "White espresso on rocks",
+      "img": "/images/filter.png",
+      "sizes": [{ "price":70}],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    },
+    {
+      "name": "Americano",
+      "img": "/images/Americano.jpg",
+      "sizes": [{ "price": 75 }],
+      "addons": [{ "label": "Extra Flavor", "price": 15 }]
+    }
+  ]
+}
+,{
+    "name": "Shaken Espresso",
+            "icon": "coffee",
+            "items": [
+                {
+                    "name": "White mocha ",
+                    "img": "/images/Tea.jpg",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Salted caramel ",
+                    "img": "/images/Tea.jpg",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Dulce de letche ",
+                    "img": "/images/Tea.jpg",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Pistachio  ",
+                    "img": "/images/Tea.jpg",
+                    "sizes": [
+                        { "price": 150 }
+                    ],
+                    "addons": []
+                }
+            ]
+},{
+            "name": "Matcha",
+            "icon": "matcha",
+            "items": [
+                  {
+                    "name": "⁠Matcha classic",
+                    "img": "/images/Matcha Boba.jpg",
+                    "sizes": [
+                        { "price": 100 }
+                    ],
+                       "addons": [
+                       { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": " White Mocha",
+                    "img": "/images/Matcha Lovers/iced-matcha-white-chocolate.jpg",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                    "addons": [
+                        { "label": "Coconut", "price": 40 },
+                        { "label": "OAT", "price": 40 },
+                        { "label": "FreeLactos", "price": 25 },
+                        { "label": "Skimmed", "price": 10 }
+                    ]
+                },
+                {
+                    "name": " Spanish",
+                    "img": "/images/Matcha Lovers/Matcha Spanish.jpeg",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                    "addons": [
+                        { "label": "Coconut", "price": 40 },
+                        { "label": "OAT", "price": 40 },
+                        { "label": "FreeLactos", "price": 25 },
+                        { "label": "Skimmed", "price": 10 }
+                    ]
+                },
+                {
+                    "name": " Salted",
+                    "img": "/images/Matcha Lovers/Matcha Caramel.webp",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                    "addons": [
+                        { "label": "Coconut", "price": 40 },
+                        { "label": "OAT", "price": 40 },
+                        { "label": "FreeLactos", "price": 25 },
+                        { "label": "Skimmed", "price": 10 }
+                    ]
+                },
+                {
+                    "name": " Raspberry Matcha Cloud",
+                    "img": "/images/Matcha Lovers/Matcha Blueberry.jpeg",
+                    "sizes": [
+                        { "price": 145 }
+                    ],
+                    "addons": [
+                        { "label": "Coconut", "price": 40 },
+                        { "label": "OAT", "price": 40 },
+                        { "label": "FreeLactos", "price": 25 },
+                        { "label": "Skimmed", "price": 10 }
+                    ]
+                }
+            ],
+            "addonsMessage": "Choose your favorite milk to customize your drink: Coconut, OAT, FreeLactos or Skimme."
+
+        },
+        {
+            "name": "Frappe",
+            "icon": "frappe",
+            "items": [
+               
+                {
+                    "name": " Caramel",
+                    "img": "/images/Frappe/Starbucks-Caramel-Frappucino-5.jpg",
+                    "sizes": [
+                        { "price": 125}
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": " Salted Caramel",
+                    "img": "/images/Signature Drinks/Frappuccino Salted Caramel.jpeg",
+                    "sizes": [
+                        { "price": 125 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": " White Mocha Salted Caramel",
+                    "img": "/images/Frappe/Frappuccino White Mocha.jpg",
+                    "sizes": [
+                        { "price": 125 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": " Dark Mocha",
+                    "img": "/images/Frappe/Frappuccino Dark Mocha.jpg",
+                    "sizes": [
+                        { "price": 125 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                }
+            ]
+        },
+         {
+            "name": "Milkshake",
+            "icon": "milkshake",
+            "items": [
+                 {
+                    "name": "Salted Caramel",
+                    "img": "/images/Milkshake/salted-caramel-milkshake-RC-SQ.jpg",
+                    "sizes": [ { "price": 120 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Oreo",
+                    "img": "/images/Milkshake/Chick-Fil-A-Oreo-Milkshake-hero.webp",
+                    "sizes": [ { "price": 110 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "⁠Nutella",
+                    "img": "/images/Nutella.jpg",
+                    "sizes": [ { "price": 150 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Salted Nutella",
+                    "img": "/images/Milkshake/salted-caramel-milkshake-RC-SQ.jpg",
+                    "sizes": [ { "price": 150 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                
+                {
+                    "name": "Lotus",
+                    "img": "/images/Milkshake/lotus-biscoff-sundae-milkshake-chocolate-260nw-2432268901.webp",
+                    "sizes": [ { "price": 150 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Pistachio ",
+                    "img": "/images/Milkshake/lotus-biscoff-sundae-milkshake-chocolate-260nw-2432268901.webp",
+                    "sizes": [ { "price": 150 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Passion",
+                    "img": "/images/Milkshake/Passion.jpg",
+                    "sizes": [ { "price": 125 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Berries",
+                    "img": "/images/Milkshake/BlueberryMilkshake-500x375.webp",
+                    "sizes": [ { "price": 110 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Strawberry",
+                    "img": "/images/Milkshake/Strawberry-Banana-Milkshake.jpg",
+                    "sizes": [ { "price": 110 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Smoothie",
+            "icon": "smoothie",
+            "items": [
+                {
+                    "name": "Strawberry",
+                    "img": "/images/Smoothie/strawberry-breakfast-smoothie-recipe-2097149-hero-02-5c1d4b2a46e0fb00014bf2ec.jpg",
+                    "sizes": [
+                        { "price": 110 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Berries",
+                    "img": "/images/Smoothie/strawberry-breakfast-smoothie-recipe-2097149-hero-02-5c1d4b2a46e0fb00014bf2ec.jpg",
+                    "sizes": [
+                        { "price": 110 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Pina Colada",
+                    "img": "/images/Smoothie/banana-peach-smoothie.jpg",
+                    "sizes": [
+                        { "price": 125 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Peach",
+                    "img": "/images/Smoothie/banana-peach-smoothie.jpg",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                
+                {
+                    "name": "Passion ",
+                    "img": "/images/Smoothie/Passion Fruit.jpg",
+                    "sizes": [
+                        { "price": 135 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Trident",
+                    "img": "/images/Trident.avif",
+                    "sizes": [
+                        { "price": 120 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Velvet Blends ",
+            "icon": "frappe",
+            "items": [
+                   {
+                    "name": "Cold pina colada",
+                    "img": "/images/Frappe/Frappuccino Classic.jpg",
+                    "sizes": [
+                        { "price": 125 }
+                    ],
+                       "addons": []
+                    },
+                    {
+                    "name": "Cold peach ",
+                    "img": "/images/Frappe/Frappuccino Classic.jpg",
+                    "sizes": [
+                        { "price": 125 }
+                    ],
+                       "addons": []
+                    },{
+                    "name": "Coconut berry ",
+                    "img": "/images/Frappe/Frappuccino Classic.jpg",
+                    "sizes": [
+                        { "price": 130 }
+                    ],
+                       "addons": []
+                    }
+
+            ]
+        },
+                {
+            "name": "Hot Drinks",
+            "icon": "coffee",
+            "items": [
+                {
+                    "name": "Tea",
+                    "img": "/images/Tea.jpg",
+                    "sizes": [
+                        { "price": 25 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Milk Tea",
+                    "img": "/images/Milk Tea.jpg",
+                    "sizes": [
+                        { "price": 50 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Karak",
+                    "img": "/images/Karak.jpg",
+                    "sizes": [
+                        {  "price": 50}
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Nescafe",
+                    "img": "/images/Nescafe.jpg",
+                    "sizes": [
+                        {"price": 60 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Hot Chocolate classic",
+                    "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+                   "sizes": [
+                        {  "price": 100 }],
+                    "addons": []
+                },
+                {
+                    "name": "Hot Chocolate marshmallow ",
+                    "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+                   "sizes": [
+                        {  "price": 125 }],
+                    "addons": []
+                },
+                {
+                    "name": "Hot Chocolate tiramisu  ",
+                    "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+                   "sizes": [
+                        {  "price": 125 }],
+                    "addons": []
+                },
+                {
+                    "name": "Hot Chocolate whipped cream ",
+                    "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+                   "sizes": [
+                        {  "price": 125 }],
+                    "addons": []
+                },
+                {
+                    "name": "Hot pistachio  ",
+                    "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+                   "sizes": [
+                        {  "price": 130}],
+                    "addons": []
+                }
+            ],
+            "addonsMessage": "Add Extra Flavor for 15 EGP. (One Pumb)"
+        }
+        ,
+        {
+            "name": "Iced Drinks",
+            "icon": "coffee",
+            "items": [
+                {
+                    "name": "Ice Chocolate",
+                    "img": "/images/Ice Chocolate.jpg",
+                    "sizes": [
+                        { "price": 100 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                
+                {
+                    "name": "Ice White Chocolate",
+                    "img": "/images/Ice White Chocolate.jpg",
+                    "sizes": [
+                        { "price": 100 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Rose",
+                    "img": "/images/Ice Chocolate.jpg",
+                    "sizes": [
+                        { "price": 100 }
+                    ],
+                       "addons": []
+                }
+            ]
+        },
+        {
+            "name": "Mix Soda",
+            "icon": "soda",
+            "items": [
+                {
+                    "name": "Hacienda white ",
+                    "img": "/images/Mix Soda/Mix Pomegranate.jpg",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Hacienda red",
+                    "img": "/images/Mix Soda/Mix Soda.webp",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Passion peach",
+                    "img": "/images/Mix Soda/Berries.webp",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Pina colada",
+                    "img": "/images/lastmodifications/HACIENDA.jpg",
+                    "sizes": [
+                        {  "price": 90 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Green fizz",
+                    "img": "/images/Mix Soda/Peach.jpg",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Mandarin pop ",
+                    "img": "/images/Mix Soda/Blue Passion.jpeg",
+                    "sizes": [
+                        { "price": 100 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Rosha ",
+                    "img": "/images/Sunshine.jpg",
+                    "sizes": [
+                        { "price": 90}
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Lemon pomegranate",
+                    "img": "/images/Redbull/Mix Redbull.jpg",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Winter fizz ",
+                    "img": "/images/Redbull/Mix Redbull.jpg",
+                    "sizes": [
+                        { "price": 100}
+                    ],
+                    "addons": []
+                }
+            ]
+        },
+        {
+            "name": "Mix redbull",
+            "icon": " redbull",
+           "items": [
+                {
+                    "name": "Hacienda white ",
+                    "img": "/images/Mix Soda/Mix Pomegranate.jpg",
+                    "sizes": [
+                        { "price": 130 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Hacienda red",
+                    "img": "/images/Mix Soda/Mix Soda.webp",
+                    "sizes": [
+                        { "price": 130 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Passion peach",
+                    "img": "/images/Mix Soda/Berries.webp",
+                    "sizes": [
+                        { "price": 130 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Pina colada",
+                    "img": "/images/lastmodifications/HACIENDA.jpg",
+                    "sizes": [
+                        {  "price": 130 }],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Green fizz",
+                    "img": "/images/Mix Soda/Peach.jpg",
+                    "sizes": [
+                        { "price": 130 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Mandarin pop ",
+                    "img": "/images/Mix Soda/Blue Passion.jpeg",
+                    "sizes": [
+                        { "price": 130 }
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Rosha ",
+                    "img": "/images/Sunshine.jpg",
+                    "sizes": [
+                        { "price": 130}
+                    ],
+                       "addons": [
+                        { "label": "BOOBA", "price": 30 },
+                        { "label": "Bombing Boba", "price": 40 }
+                    ]
+                },
+                {
+                    "name": "Lemon pomegranate",
+                    "img": "/images/Redbull/Mix Redbull.jpg",
+                    "sizes": [
+                        { "price": 130 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Winter fizz ",
+                    "img": "/images/Redbull/Mix Redbull.jpg",
+                    "sizes": [
+                        { "price": 140}
+                    ],
+                    "addons": []
+                }
+            ]
+        },
+        {
+            "name": "Desserts",
+            "icon": "cake",
+            "items": [
+                {
+                    "name": "Tiramisu",
+                    "img": "/images/Tiramisu.jpg",
+                    "sizes": [
+                        { "price": 95 }
+                    ],
+                    "addons": []
+                } ,
+                {
+                    "name": "Lazy Cat",
+                    "img": "/images/Lazy Cat.jpg",
+                    "sizes": [
+                        { "price": 100 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "San Sebastian",
+                    "img": "/images/lastmodifications/San Sebastián.jpg",
+                    "sizes": [{ "price": 135 }],
+                    "addons": []
+                },
+                {
+                    "name": "Éclair",
+                    "img": "/images/Pastry/Éclair.webp",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Choux",
+                    "img": "/images/Choux.jpg",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                    "addons": []
+                },
+                {
+                    "name": "Cookie Dough",
+                    "img": "/images/Pastry/american-cookies-rezept (1).jpg",
+                    "sizes": [
+                        { "price": 105 }
+                    ],
+                    "addons": []
+                },
+                 {
+                    "name": "Pancakes",
+                    "img": "/images/Pancakes/Pancakes.jpg",
+                    "sizes": [
+                        { "label": "Chocolate", "price": 40 },
+                        { "label": "White", "price": 40 },
+                        { "label": "Kinder", "price": 40 },
+                        { "label": "Pistachio", "price": 50 },
+                        { "label": "Lotus", "price": 50 },
+                        { "label": "WhiteBerry", "price": 50 },
+                        { "label": "Nutella", "price": 50 }
+                    ],
+                    "addons": []
+                }
+           
+            ]
+        },
+        {
+             "name": "🌙RAMADAN HITS",
+            "icon": "ramadan",
+            "items": [
+                {
+                    "name": "Baklava Pistachio Cheesecake ",
+                    "img": "/images/Pizza Turkey Cheese.jpg",
+                    "sizes": [
+                        { "price": 120 }
+                    ],
+                    "addons": []
+        },
+        {
+                    "name": "Blend Royal Kunafa Tart ",
+                    "img": "/images/Pizza Turkey Cheese.jpg",
+                    "sizes": [
+                        { "price": 115}
+                    ],
+                    "addons": []
+        },
+        {
+                    "name": "Kunafa Rolls ",
+                    "img": "/images/Pizza Turkey Cheese.jpg",
+                    "sizes": [
+                        { "price": 60 }
+                    ],
+                    "addons": []
+        },
+        {
+                    "name": "Box 6 Rolls ",
+                    "img": "/images/Pizza Turkey Cheese.jpg",
+                    "sizes": [
+                        { "price": 330 }
+                    ],
+                    "addons": []
+        },
+        {
+                    "name": "Eclair-Ramadan Edition",
+                    "img": "/images/Pizza Turkey Cheese.jpg",
+                    "sizes": [
+                        { "price": 90 }
+                    ],
+                    "addons": []
+        }
+        ]
+    }
+    ]
+    
+  }
+
+
+

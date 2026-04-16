@@ -1,0 +1,1259 @@
+{
+  "categories": [
+    {
+      "name": "Most Ordered",
+      "items": [
+        {
+          "name": "Shaken Pistachio",
+          "sizes": [
+            {
+              "price": 155
+            }
+          ]
+        },
+        {
+          "name": "Ice Spanish",
+          "sizes": [
+            {
+              "label": "XL",
+              "price": 135
+            }
+          ]
+        },
+        {
+          "name": "Raspberry Matcha Cloud ",
+          "sizes": [
+            {
+              "price": 145
+            }
+          ]
+        },
+        {
+           "name": "Cloud Matcha Salted Caramel ",
+          "sizes": [
+            {
+              "price": 140
+            }
+          ]
+        },
+        {
+          "name": "San Sebastián ",
+          "sizes": [
+            {
+              "price": 135
+            }
+          ]
+        },
+        {
+          "name": "Jollash Strawberry Tres Leches",
+          "sizes": [
+            {
+              "price": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hot Coffee",
+      "icon": "coffee",
+      "items": [
+        {
+          "name": "Espresso",
+          "img": "/images/Espresso.jpg",
+          "sizes": [
+            { "label": "Single", "price": 50 },
+            { "label": "Double", "price": 60 }
+          ],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Americano",
+          "img": "/images/Americano.jpg",
+          "sizes": [{ "price": 75 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Cortado",
+          "img": "/images/1st white.jpg",
+          "sizes": [{ "price": 75 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Macchiato",
+          "img": "/images/1st white.jpg",
+          "sizes": [{ "price": 75 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Cappuccino",
+          "img": "/images/1st white.jpg",
+          "sizes": [{ "price": 90 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Flat white",
+          "img": "/images/1st white.jpg",
+          "sizes": [{ "price": 80 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Latte",
+          "img": "/images/Latte.jpg",
+          "sizes": [{ "price": 95 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Spanish Latte",
+          "img": "/images/Spanish.jpg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "White Mocha",
+          "img": "/images/White Mocha.jpeg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Salted Caramel",
+          "img": "/images/salted caramel.jpg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Caramel",
+          "img": "/images/Caramel.jpeg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+         {
+          "name": "Turkish",
+          "img": "/images/Turkish coffee/Turkish.jpeg",
+          "sizes": [
+            { "label": "Single", "price": 40 },
+            { "label": "Double", "price": 60 }
+          ],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "French",
+          "img": "/images/Turkish coffee/French.jpg",
+          "sizes": [{ "price": 60 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        },
+        {
+          "name": "Hazelnut",
+          "img": "/images/Turkish coffee/Hazelnut.webp",
+          "sizes": [{ "price": 60 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: White Mocha", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 }          
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iced Coffee",
+      "icon": "ice-coffee",
+      "items": [
+        {
+          "name": "Latte",
+          "img": "/images/Latte.jpg",
+          "sizes": [
+            { "label": "L", "price": 100 },
+            { "label": "XL", "price": 115 }
+          ],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Spanish",
+          "img": "/images/Spanish.jpg",
+          "sizes": [
+            { "label": "L", "price": 115 },
+            { "label": "XL", "price": 135 }
+          ],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Ice Cream Brûlée ",
+          "img": "/images/White Mocha.jpeg",
+          "sizes": [
+            { "label": "L", "price": 120 },
+            { "label": "XL", "price": 135 }
+          ],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Popcorn",
+          "img": "/images/salted caramel.jpg",
+          "sizes": [
+            { "label": "L", "price": 120 },
+            { "label": "XL", "price": 135 }
+          ],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Caramel",
+          "img": "/images/Caramel.jpeg",
+          "sizes": [
+            { "label": "Single", "price": 125 },
+            { "label": "Double", "price": 135 }
+          ],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Espresso on rocks",
+          "img": "/images/filter.png",
+          "sizes": [{ "price": 65 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "White espresso on rocks",
+          "img": "/images/filter.png",
+          "sizes": [{ "price": 70 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Americano",
+          "img": "/images/Americano.jpg",
+          "sizes": [{ "price": 75 }],
+          "addons": [
+            { "label": "Flavor: Vanilla", "price": 20 },
+            { "label": "Flavor: Vanilla sugar free", "price": 20 },
+            { "label": "Flavor: Caramel", "price": 20 },
+            { "label": "Flavor: Salted Caramel", "price": 20 },
+            { "label": "Flavor: Caramel sugar free", "price": 20 },
+            { "label": "Flavor: White Chocolate", "price": 20 },
+            { "label": "Popcorn", "price": 20 },
+            { "label": "Cream brûlée", "price": 20 },
+            { "label": "Spanish", "price": 20 },
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaken Espresso",
+      "icon": "coffee",
+      "items": [
+        {
+          "name": "White mocha ",
+          "img": "/images/Tea.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Salted caramel ",
+          "img": "/images/Tea.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Spanish Salted caramel ",
+          "img": "/images/Tea.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Dulce de letche ",
+          "img": "/images/Tea.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Pistachio  ",
+          "img": "/images/Tea.jpg",
+          "sizes": [{ "price": 155 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Matcha",
+      "icon": "matcha",
+      "items": [
+        {
+          "name": "⁠Matcha classic",
+          "img": "/images/Matcha Boba.jpg",
+          "sizes": [{ "price": 100 }],
+          "addons": [
+            { "label": "Flavor: Coconut Milk", "price": 50 },
+            { "label": "Flavor: Oat Milk", "price": 50 },
+            { "label": "Flavor: Lactose-free Milk", "price": 30 },
+            { "label": "Flavor: Skimmed Milk ", "price": 10 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": " White Mocha",
+          "img": "/images/Matcha Lovers/iced-matcha-white-chocolate.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Flavor: Coconut Milk", "price": 50 },
+            { "label": "Flavor: Oat Milk", "price": 50 },
+            { "label": "Flavor: Lactose-free Milk", "price": 30 },
+            { "label": "Flavor: Skimmed Milk ", "price": 10 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": " Spanish",
+          "img": "/images/Matcha Lovers/Matcha Spanish.jpeg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Flavor: Coconut Milk", "price": 50 },
+            { "label": "Flavor: Oat Milk", "price": 50 },
+            { "label": "Flavor: Lactose-free Milk", "price": 30 },
+            { "label": "Flavor: Skimmed Milk ", "price": 10 },
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+        ,
+        {
+          "name": " Matcha Strawberry ",
+          "img": "/images/Matcha Lovers/Matcha Blueberry.jpeg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Flavor: Coconut Milk", "price": 50 },
+            { "label": "Flavor: Oat Milk", "price": 50 },
+            { "label": "Flavor: Lactose-free Milk", "price": 30 },
+            { "label": "Flavor: Skimmed Milk ", "price": 10 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Cloud Matcha Salted Caramel",
+          "img": "/images/Matcha Lovers/Matcha Caramel.webp",
+          "sizes": [{ "price": 140 }],
+          "addons": [
+            { "label": "Flavor: Coconut Milk", "price": 50 },
+            { "label": "Flavor: Oat Milk", "price": 50 },
+            { "label": "Flavor: Lactose-free Milk", "price": 30 },
+            { "label": "Flavor: Skimmed Milk ", "price": 10 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": " Raspberry Matcha Cloud",
+          "img": "/images/Matcha Lovers/Matcha Blueberry.jpeg",
+          "sizes": [{ "price": 145 }],
+          "addons": [
+            { "label": "Flavor: Coconut Milk", "price": 50 },
+            { "label": "Flavor: Oat Milk", "price": 50 },
+            { "label": "Flavor: Lactose-free Milk", "price": 30 },
+            { "label": "Flavor: Skimmed Milk ", "price": 10 },
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+        
+      ],
+      "addonsMessage": "Choose your favorite milk to customize your drink: Coconut, OAT, FreeLactos or Skimme."
+    },
+    {
+      "name": "Frappe",
+      "icon": "frappe",
+      "items": [
+        {
+          "name": " Caramel",
+          "img": "/images/Frappe/Starbucks-Caramel-Frappucino-5.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": " Salted Caramel",
+          "img": "/images/Signature Drinks/Frappuccino Salted Caramel.jpeg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": " White Mocha Salted Caramel",
+          "img": "/images/Frappe/Frappuccino White Mocha.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": " Dark Mocha",
+          "img": "/images/Frappe/Frappuccino Dark Mocha.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Milkshake",
+      "icon": "milkshake",
+      "items": [
+        {
+          "name": "Salted Caramel",
+          "img": "/images/Milkshake/salted-caramel-milkshake-RC-SQ.jpg",
+          "sizes": [{ "price": 120 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Oreo",
+          "img": "/images/Milkshake/Chick-Fil-A-Oreo-Milkshake-hero.webp",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "⁠Nutella",
+          "img": "/images/Nutella.jpg",
+          "sizes": [{ "price": 150 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Salted Nutella",
+          "img": "/images/Milkshake/salted-caramel-milkshake-RC-SQ.jpg",
+          "sizes": [{ "price": 150 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Lotus",
+          "img": "/images/Milkshake/lotus-biscoff-sundae-milkshake-chocolate-260nw-2432268901.webp",
+          "sizes": [{ "price": 150 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Pistachio ",
+          "img": "/images/Milkshake/lotus-biscoff-sundae-milkshake-chocolate-260nw-2432268901.webp",
+          "sizes": [{ "price": 150 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Passion",
+          "img": "/images/Milkshake/Passion.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Berries",
+          "img": "/images/Milkshake/BlueberryMilkshake-500x375.webp",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Strawberry",
+          "img": "/images/Milkshake/Strawberry-Banana-Milkshake.jpg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Smoothie",
+      "icon": "smoothie",
+      "items": [
+        {
+          "name": "Strawberry",
+          "img": "/images/Smoothie/strawberry-breakfast-smoothie-recipe-2097149-hero-02-5c1d4b2a46e0fb00014bf2ec.jpg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Berries",
+          "img": "/images/Smoothie/strawberry-breakfast-smoothie-recipe-2097149-hero-02-5c1d4b2a46e0fb00014bf2ec.jpg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Pina Colada",
+          "img": "/images/Smoothie/banana-peach-smoothie.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Peach",
+          "img": "/images/Smoothie/banana-peach-smoothie.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Passion ",
+          "img": "/images/Smoothie/Passion Fruit.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Trident",
+          "img": "/images/Trident.avif",
+          "sizes": [{ "price": 120 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Velvet Blends ",
+      "icon": "frappe",
+      "items": [
+        {
+          "name": "Cold pina colada",
+          "img": "/images/Frappe/Frappuccino Classic.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+             { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Cold peach ",
+          "img": "/images/Frappe/Frappuccino Classic.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": [
+             { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Coconut berry ",
+          "img": "/images/Frappe/Frappuccino Classic.jpg",
+          "sizes": [{ "price": 130 }],
+          "addons": [
+             { "label": "Boba", "price": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hot Drinks",
+      "icon": "coffee",
+      "items": [
+        {
+          "name": "Tea",
+          "img": "/images/Tea.jpg",
+          "sizes": [{ "price": 30 }],
+          "addons": []
+        },
+        {
+          "name": "Milk Tea",
+          "img": "/images/Milk Tea.jpg",
+          "sizes": [{ "price": 50 }],
+          "addons": []
+        },
+        {
+          "name": "Karak",
+          "img": "/images/Karak.jpg",
+          "sizes": [{ "price": 50 }],
+          "addons": []
+        },
+        {
+          "name": "Nescafe",
+          "img": "/images/Nescafe.jpg",
+          "sizes": [{ "price": 60 }],
+          "addons": []
+        },
+        {
+          "name": "Hot Chocolate classic",
+          "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+          "sizes": [{ "price": 100 }],
+          "addons": []
+        },
+        {
+          "name": "Hot Chocolate marshmallow ",
+          "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": []
+        },
+        {
+          "name": "Hot Chocolate tiramisu  ",
+          "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": []
+        },
+        {
+          "name": "Hot Chocolate whipped cream ",
+          "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+          "sizes": [{ "price": 125 }],
+          "addons": []
+        },
+        {
+          "name": "Hot pistachio  ",
+          "img": "/images/Hot Drinks/Hot Chocolate.jpg",
+          "sizes": [{ "price": 130 }],
+          "addons": []
+        }
+      ],
+      "addonsMessage": "Add Extra Flavor for 15 EGP. (One Pumb)"
+    },
+    {
+      "name": "Iced Drinks",
+      "icon": "coffee",
+      "items": [
+        {
+          "name": "Ice Chocolate",
+          "img": "/images/Ice Chocolate.jpg",
+          "sizes": [{ "price": 100 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Ice White Chocolate",
+          "img": "/images/Ice White Chocolate.jpg",
+          "sizes": [{ "price": 100 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Rose",
+          "img": "/images/Ice Chocolate.jpg",
+          "sizes": [{ "price": 100 }],
+          "addons": [
+            { "label": "Whipped Cream", "price": 30 },
+            { "label": "Boba", "price": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Signature Soda",
+      "icon": "soda",
+      "items": [
+        {
+          "name": "Hacienda white ",
+          "img": "/images/Mix Soda/Mix Pomegranate.jpg",
+          "sizes": [{ "price": 95 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Hacienda red",
+          "img": "/images/Mix Soda/Mix Soda.webp",
+          "sizes": [{ "price": 95 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Passion peach",
+          "img": "/images/Mix Soda/Berries.webp",
+          "sizes": [{ "price": 95 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Pina colada",
+          "img": "/images/lastmodifications/HACIENDA.jpg",
+          "sizes": [{ "price": 95 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Green fizz",
+          "img": "/images/Mix Soda/Peach.jpg",
+          "sizes": [{ "price": 95}],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Mandarin pop ",
+          "img": "/images/Mix Soda/Blue Passion.jpeg",
+          "sizes": [{ "price": 105 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Rosha ",
+          "img": "/images/Sunshine.jpg",
+          "sizes": [{ "price": 95 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Lemon pomegranate",
+          "img": "/images/Redbull/Mix Redbull.jpg",
+          "sizes": [{ "price": 95 }],
+          "addons": [{ "label": "Boba", "price": 40 }]
+        },
+        {
+          "name": "Winter fizz ",
+          "img": "/images/Redbull/Mix Redbull.jpg",
+          "sizes": [{ "price": 105 }],
+          "addons": [{ "label": "Boba", "price": 40 }]
+        }
+      ]
+    },
+    {
+      "name": "Energy Mixes",
+      "icon": " redbull",
+      "items": [
+        {
+          "name": "Hacienda white ",
+          "img": "/images/Mix Soda/Mix Pomegranate.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Hacienda red",
+          "img": "/images/Mix Soda/Mix Soda.webp",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Passion peach",
+          "img": "/images/Mix Soda/Berries.webp",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Pina colada",
+          "img": "/images/lastmodifications/HACIENDA.jpg",
+          "sizes": [{ "price": 135}],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Green fizz",
+          "img": "/images/Mix Soda/Peach.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Mandarin pop ",
+          "img": "/images/Mix Soda/Blue Passion.jpeg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Rosha ",
+          "img": "/images/Sunshine.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Boba", "price": 40 }
+          ]
+        },
+        {
+          "name": "Lemon pomegranate",
+          "img": "/images/Redbull/Mix Redbull.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [{ "label": "Boba", "price": 40 }]
+        },
+        {
+          "name": "Winter fizz ",
+          "img": "/images/Redbull/Mix Redbull.jpg",
+          "sizes": [{ "price": 145 }],
+          "addons": [{ "label": "Boba", "price": 40 }]
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "icon": "cake",
+      "items": [
+        {
+          "name": "Tiramisu",
+          "img": "/images/Tiramisu.jpg",
+          "sizes": [{ "price": 95 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+        {
+          "name": "Lazy Cat",
+          "img": "/images/Lazy Cat.jpg",
+          "sizes": [{ "price": 110 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+        {
+          "name": "San Sebastian",
+          "img": "/images/lastmodifications/San Sebastián.jpg",
+          "sizes": [{ "price": 135 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+        {
+          "name": "Éclair",
+          "img": "/images/Pastry/Éclair.webp",
+          "sizes": [{ "price": 85 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+        {
+          "name": "Choux",
+          "img": "/images/Choux.jpg",
+          "sizes": [{ "price": 85 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+        {
+          "name": "Cookie Scoop",
+          "img": "/images/Pastry/american-cookies-rezept (1).jpg",
+          "sizes": [{ "price": 120 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+        {
+          "name": "Gollash  Strawberry Tres Leches",
+          "img": "/images/Pastry/american-cookies-rezept (1).jpg",
+          "sizes": [{ "price": 120 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+        {
+          "name": "Cheesecake",
+          "img": "/images/Pastry/american-cookies-rezept (1).jpg",
+          "sizes": [{ "price": 120 }],
+          "addons": [
+            { "label": "Topping: Chocolate", "price": 40 },
+            { "label": "Topping: White Chocolate", "price": 40 },
+            { "label": "Topping: Pistachio", "price": 40 },
+            { "label": "Topping: Blueberry", "price": 40 },
+            { "label": "Topping: Lotus", "price": 40 },
+            { "label": "Topping: Kinder", "price": 40 },
+            { "label": "Nuts", "price": 40 },
+            { "label": "Fresh Fruits", "price": 40 },
+            { "label": "Ice Cream", "price": 25 }
+          ]
+        },
+       {
+  "name": "Pancakes",
+  "img": "/images/Pancakes/Pancakes.jpg",
+  "isTable": true,
+  "tableColumns": [10, 15, 20, 25, 30],
+  "tableRows": [
+    { "label": "White",     "prices": [80, 120, 160, 200, 240] },
+    { "label": "Chocolate", "prices": [80, 120, 160, 200, 240] },
+    { "label": "Kinder",    "prices": [100, 150, 200, 250, 300] },
+    { "label": "Pistachio", "prices": [100, 150, 200, 250, 300] },
+    { "label": "Lotus",     "prices": [100, 150, 200, 250, 300] },
+    { "label": "WhiteBerry","prices": [100, 150, 200, 250, 300] },
+    { "label": "Nutella",   "prices": [100, 150, 200, 250, 300] }
+  ],
+  "sizes": [
+    { "label": "Chocolate", "price": 40 },
+    { "label": "White",     "price": 40 },
+    { "label": "Kinder",    "price": 40 },
+    { "label": "Pistachio", "price": 50 },
+    { "label": "Lotus",     "price": 50 },
+    { "label": "WhiteBerry","price": 50 },
+    { "label": "Nutella",   "price": 50 }
+  ],
+  "addons": [
+    { "label": "Topping: Chocolate",       "price": 40 },
+    { "label": "Topping: White Chocolate", "price": 40 },
+    { "label": "Topping: Pistachio",       "price": 40 },
+    { "label": "Topping: Blueberry",       "price": 40 },
+    { "label": "Topping: Lotus",           "price": 40 },
+    { "label": "Topping: Kinder",          "price": 40 },
+    { "label": "Nuts",                     "price": 40 },
+    { "label": "Fresh Fruits",             "price": 40 },
+    { "label": "Ice Cream",                "price": 25 }
+  ]
+}
+      ]
+    },
+    {
+      "name": " MAKE IT YOURS",
+      "icon": "plus",
+      "items": [
+        {
+          "name": "Flavor Pump (Monin)",
+          "description": "Vanilla, Caramel, Salted Caramel, White Chocolate, Chocolate, Coconut",
+          "sizes": [{ "price": 20 }],
+          "addons": []
+        },
+        {
+          "name": "Toppings",
+          "description": "Chocolate, White Chocolate, Pistachio, Blueberry, Lotus, Kinder",
+          "sizes": [{ "price": 40 }],
+          "addons": []
+        },
+        {
+          "name": "Whipped Cream",
+          "sizes": [{ "price": 30 }],
+          "addons": []
+        },
+        {
+          "name": "Nuts",
+          "sizes": [{ "price": 40 }],
+          "addons": []
+        },
+        {
+          "name": "Fresh Fruits",
+          "sizes": [{ "price": 40 }],
+          "addons": []
+        },
+        {
+          "name": "Ice Cream",
+          "sizes": [{ "price": 25 }],
+          "addons": []
+        },
+        {
+          "name": "Boba",
+          "sizes": [{ "price": 40 }],
+          "addons": []
+        }
+      ]
+    }
+  ]
+}
