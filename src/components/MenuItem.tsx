@@ -22,7 +22,6 @@ export default function MenuItem({ name, sizes, delay = 0 }: MenuItemProps) {
       transition={{ delay, duration: 0.5 }}
       className="py-4 px-6 bg-white/40 backdrop-blur-sm rounded-2xl mb-4 shadow-sm"
     >
-      {/* NAME + PRICE (single size) */}
       <div className="flex justify-between items-center mb-3">
         <span className="font-montserrat text-lg text-[#7b7575] font-medium">
           {name}
@@ -35,7 +34,6 @@ export default function MenuItem({ name, sizes, delay = 0 }: MenuItemProps) {
         )}
       </div>
 
-      {/* MULTIPLE SIZES */}
       {hasMultipleSizes && (
         <div className="space-y-2">
           {sizes.map((size, index) => (

@@ -50,12 +50,7 @@ export default function MenuCover({ isPdfMode = false }: MenuCoverProps) {
           className="h-0.5 bg-gradient-to-r from-transparent via-[#958f8f] to-transparent my-8 mx-auto w-48"
         ></motion.div>
 
-        {/* <motion.p
-          {...motionProps({ opacity: 0 }, { opacity: 1 }, { delay: 2, duration: 0.5 })}
-          className="font-montserrat text-lg text-[#7b7575] italic font-medium"
-        >
-          Start exploring our menu
-        </motion.p> */}
+        
       </div>
     </motion.div>
   );

@@ -60,7 +60,6 @@ export default function Index() {
       {!isLoading && (
         <main>
           
-          {/* --- STICKY NAVBAR --- */}
 <nav className="fixed top-0 left-0 right-0 z-[100] bg-[#fdf8f5]/40 backdrop-blur-xl border-b border-[#e8dcd5]/30 transition-all duration-300">
   <div className="max-w-6xl mx-auto px-6 py-5 flex justify-between items-center">
     <div 
@@ -97,20 +96,14 @@ className="font-playfair text-3xl font-bold text-[#5c5656]"
 </nav>
 
 
-          {/* --- HERO SECTION --- */}
           <section id="home">
             <MenuCover />
           </section>
 
          
 
-          {/* --- MENU SECTION --- */}
           <section id="menu">
-            {/* <div className="py-12 text-center">
-              <h2 className="font-playfair text-5xl font-bold text-[#7b7575] mb-4">Explore Our Menu</h2>
-              <p className="text-[#958f8f] font-medium">Discover your new favorite flavor.</p>
-            </div>
-             */}
+            
             {menuData.categories.map((category: any, index: number) => (
               <CategorySection
                 key={index}
@@ -122,7 +115,6 @@ className="font-playfair text-3xl font-bold text-[#5c5656]"
             ))}
           </section>
 
-          {/* --- INFO / VISIT US SECTION (Added Glassmorphism) --- */}
           <section id="visit" className="py-24 px-8 bg-white/40 backdrop-blur-md mx-4 md:mx-auto max-w-5xl rounded-[3rem] border border-white/60 shadow-sm mb-24 mt-12">
             <div className="max-w-5xl mx-auto">
               <div className="text-center mb-16">
@@ -149,7 +141,6 @@ className="font-playfair text-3xl font-bold text-[#5c5656]"
               </div>
             </div>
           </section>
- {/* --- ABOUT US SECTION (Added Glassmorphism to show background) --- */}
           <section id="about" className="py-24 px-8 bg-white/40 backdrop-blur-md mx-4 md:mx-auto max-w-5xl rounded-[3rem] border border-white/60 shadow-sm mt-12 mb-12">
             <div className="max-w-4xl mx-auto text-center">
               <Coffee className="w-12 h-12 mx-auto text-[#D4AF37] mb-6" />
@@ -167,7 +158,6 @@ className="font-playfair text-3xl font-bold text-[#5c5656]"
             </div>
           </section>
          
-          {/* --- FOOTER --- */}
 <footer className="bg-gradient-to-b from-transparent to-[#fdf8f5]/90 backdrop-blur-sm pt-20 pb-12 px-8 text-center text-[#5c5656]">
   <div className="max-w-4xl mx-auto border-t border-[#e8dcd5] pt-12">
     <h2 className="font-playfair text-4xl font-bold mb-8 tracking-tight">BLEND</h2>
@@ -185,7 +175,6 @@ className="font-playfair text-3xl font-bold text-[#5c5656]"
         </main>
       )}
 
-      {/* --- HIDDEN PDF ENGINE --- */}
       {isGeneratingPdf && (
         <PdfGenerator onComplete={() => setIsGeneratingPdf(false)} />
       )}

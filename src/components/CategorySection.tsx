@@ -54,7 +54,6 @@ export default function CategorySection({
   );
 
   return (
-    // <div className="menu-page relative min-h-screen bg-transparent py-8 px-8 flex flex-col justify-center">
     <div className="menu-page relative bg-transparent py-8 px-8 ">
       <div className="relative z-10 max-w-2xl mx-auto w-full">
 
